@@ -20,3 +20,5 @@ Steps:
     7) Can view camereas on separate tab.
     8) Can test out messaging by runing to separate simulators to see live updates.
     9) Can view what email user used to log in with and sign out on profile page (brings you back to sign in page)
+
+![](https://github.com/ajbaker24/SecureMe/blob/main/ezgif.com-gif-maker.gif)
