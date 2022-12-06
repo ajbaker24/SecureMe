@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'IoTSampleSwift' do
+  pod 'AWSMobileClient'
+  pod 'AWSIoT'
+  pod 'MessageKit'
+end
